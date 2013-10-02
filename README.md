@@ -13,3 +13,7 @@ I've emulated/ripped off the soundcloud UI for artist-name hover; all it shows i
 * really messy code right now
 * need to clean up/add more safety
 * very dependent on Last.fm's front-end structure to scrape artist links... which is not at all semantic...(although they didn't change it for ~5 years, so...)
+
+## Example
+This is what it looks like:
+![example](lastfm.png)
