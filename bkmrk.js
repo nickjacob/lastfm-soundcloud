@@ -1,10 +1,6 @@
-// ==UserScript==
-// @name          LastFm SoundClouder
-// @namespace     http://nickjacob.com
-// @description	  Get some soundcloud info on last.fm
-// @include       http://last.fm/*
-// @include       http://*.last.fm/*
-// ==/UserScript==
+/***
+ * This script is injected directly into the page; it's specified in the bookmarklet by name
+ ***/
 ;(function (window, undefined) {
 
   function __deep(obj, prop) {
